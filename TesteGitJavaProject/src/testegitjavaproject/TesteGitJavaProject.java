@@ -14,6 +14,6 @@ public class TesteGitJavaProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("TESTE 2");
+        System.out.println("TESTE 3");
     }
 }
