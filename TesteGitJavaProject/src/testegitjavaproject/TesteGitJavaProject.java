@@ -14,7 +14,7 @@ public class TesteGitJavaProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("TESTE 4");
-        System.out.println("AQUI E UM TESTE DE MUDANCA");
+        System.out.println("TESTE FINAL DE PUSH COM COMMIT LOCAL");
+        
     }
 }
