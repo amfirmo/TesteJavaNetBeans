@@ -14,7 +14,7 @@ public class TesteGitJavaProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("TESTE FINAL DE PUSH COM COMMIT LOCAL");
+        System.out.println("TESTE FINAL DE COMMIT NO SERVIDOR E DEPOIS SYNCRO NO LOCAL");
         
     }
 }
